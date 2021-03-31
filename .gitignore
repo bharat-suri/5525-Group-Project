@@ -130,3 +130,6 @@ dmypy.json
 
 # vim
 *.sw*
+
+pretrained_embd/
+*.DS_Store
