@@ -132,4 +132,11 @@ dmypy.json
 *.sw*
 
 pretrained_embd/
+main.py
+run.sh
+train.py
+util.py
+__pycache__
+logs
+saved
 *.DS_Store
