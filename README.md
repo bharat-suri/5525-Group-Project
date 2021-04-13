@@ -3,7 +3,7 @@
 ## RUN
 
 ```
-python train_finegrained_multilabel.py --device YOUR_GPU_ID --batch-size 8 --lr 3e-5
+python train_finegrained_multilabel.py --device YOUR_GPU_ID --batch-size 8 --lr 3e-5 --epochs 10
 ```
 
 ## EVALUATE
