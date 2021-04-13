@@ -1,0 +1,1 @@
+ python .\scorer\task1_3.py --gold_file_path='data/data_task6/test.json' --pred_file_path=output/model_bert_frame_trainedOn_noisy_seed975_multilabel.pt.json --classes_file_path=techniques_list_task1-2.txt
